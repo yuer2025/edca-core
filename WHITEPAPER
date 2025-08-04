@@ -1,0 +1,88 @@
+# Expression-Driven Cognitive Architecture  
+## A Mediated AI Control & Protocol Framework
+
+---
+
+### I. Overview
+
+Expression-Driven Cognitive Architecture (EDCA) proposes a fundamental shift in how human language interacts with AI systems:  
+**From static task flows and intent recognition → to dynamic expression protocols and response arbitration.**
+
+This paper introduces the architecture, motivation, and application of EDCA, positioning it as an execution protocol, not a prompt system.
+
+---
+
+### II. Core Philosophy
+
+> Treat language as a **runtime protocol**, not a query.  
+> Treat AI as a **negotiating agent**, not a function executor.  
+> Treat cognition as **path arbitration**, not intention fulfillment.
+
+EDCA emphasizes layered cognition, mid-task expression override, and real-time semantic interruption — bridging gaps between general LLMs and practical agent deployment.
+
+---
+
+### III. Architecture Highlights
+
+#### 1. Expression → Protocol Conversion  
+Natural language is parsed into "Cognitive Units" (CUs), which carry execution potential. These are not goals or queries, but **actionable semantic triggers**.
+
+#### 2. Multi-Path Arbitration  
+Instead of pipeline-based workflows, EDCA allows **multiple candidate agents or modules** to respond, weighted by semantic fit and arbitration logic.
+
+#### 3. Interruptible Execution  
+EDCA supports **interrupt-driven architecture**, where new expressions mid-task can override prior cognitive paths without crashing the logic flow.
+
+#### 4. Response Weighting Layer  
+Responses are **not determined linearly**, but via contextual weight arbitration — allowing modules to "compete" for execution authority.
+
+---
+
+### IV. Key Benefits
+
+- ✅ **Modularity**: Agents are called dynamically, not pre-fixed.
+- ✅ **Human-Like Flow**: Accepts incomplete, layered, even ambiguous inputs.
+- ✅ **Interruption-Ready**: Handles spontaneous user pivots.
+- ✅ **Expression-Centric**: Removes over-reliance on “goal→task” mappings.
+
+---
+
+### V. Why Not Traditional Agents?
+
+> Static chains break when human intent shifts.  
+> Intent prediction fails with implicit or layered expression.  
+> Rigid APIs block semantic adaptability.
+
+EDCA builds a **responsive control framework** rather than rigid workflows.
+
+---
+
+### VI. Real-World Application Paths
+
+- 🧠 Custom Copilot Architecture Enhancement  
+- 🏦 Financial Agent Arbitration Framework  
+- 🛒 Retail Decision Chains (e.g., checkout logic override via new input)  
+- 🧭 Navigation Agents With Interrupt Logic (e.g., “Actually, go back”)  
+- 🧪 Experimental AGI Protocol Layers
+
+---
+
+### VII. Why Now?
+
+Because **workflow agents are breaking**.  
+Because **LLMs are powerful enough to interpret context**.  
+Because **users want interaction, not completion.**
+
+EDCA defines a standard for that shift.
+
+---
+
+### VIII. Call to Collaboration
+
+I am actively seeking technical collaborators, reviewers, and industry stakeholders interested in exploring or co-developing EDCA-based applications.  
+For inquiries: **lipxtk@gmail.com**
+
+Let’s redefine AI from the protocol layer up.
+
+---
+
